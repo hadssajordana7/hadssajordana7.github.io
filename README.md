@@ -2,13 +2,21 @@
 Site para projetos de oficina de jogos.
 
 
-Hádssa Jordana, 19
+Hádssa Jordana
 
 Programação e Arte
 
 # Contatos
 
+1. Instagram
+2. Facebook
+
+- Número 1
+- Número 2
+
 ## Jogos
+
+**Nome do Jogo** _Este jogo é..._ 'Comentários'
 
 ### Artes
 
