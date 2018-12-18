@@ -16,7 +16,7 @@ Programação e Arte
 
 ## Jogos
 
-**Nome do Jogo** _Este jogo é..._ `Comentários'
+**Nome do Jogo** _Este jogo é..._ `Comentários´
 
 ### Artes
 
