@@ -20,6 +20,7 @@ Programação e Arte
 [Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
 2. Earth Half
+[Earth Half](https://hadssajordana7.github.io/earthhalf/)
 
 **Nome do Jogo** _Este jogo é..._ 
 
