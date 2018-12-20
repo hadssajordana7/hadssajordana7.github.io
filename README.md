@@ -31,7 +31,7 @@ Programação e Arte
 ![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
 3. Adicionar apenas imagem (arquivo pc)
-![Imagem1](passaro.jpg)
+![Imagem1](Eren.jpg)
 
 4. Adicionar imagem que também é link (arquivo + url)
 [![Imagem1](passaro.jpg)](http://google.com)
