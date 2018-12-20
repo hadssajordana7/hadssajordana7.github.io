@@ -17,7 +17,7 @@ Programação e Arte
 ## Jogos
 
 1.
-[1ºJogo](https://raixasantos.github.io/AstralPlane/)
+[Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
 2.
 [Earth Half](https://hadssajordana7.github.io/earthhalf/)
