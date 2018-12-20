@@ -38,7 +38,7 @@ Programação e Arte
 
 5. Avançado: Adicionar imagem que também é link
               e que abre em uma nova janela
-<a href=""> ![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
+<a href=""> ![Imagem1](passaro.jpg) </a>
 
 ### Markdown
 
