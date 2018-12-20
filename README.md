@@ -20,7 +20,7 @@ Programação e Arte
 [Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
 2.
-<a href="http://https://hadssajordana7.github.io/earthhalf/" target= "_blank"> ![Earth Half](passaro.jpg) </a>
+<a href="http://https://hadssajordana7.github.io/earthhalf/" target= "_blank"> ![Earth Half] </a>
 
 **Nome do Jogo** _Este jogo é..._ 
 
