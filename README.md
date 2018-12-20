@@ -2,7 +2,7 @@
 Site para projetos de oficina de jogos.
 
 
-Hádssa Jordana
+Hádssa Jordana, 19 anos
 
 Programação e Arte
 
