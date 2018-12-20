@@ -20,7 +20,10 @@ Programação e Arte
 [Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
 2.
-![Earth Half](https://hadssajordana7.github.io/earthhalf/)
+[Earth Half](https://hadssajordana7.github.io/earthhalf/)
+
+3.
+[Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/)
 
 **Nome do Jogo** _Este jogo é..._ 
 
