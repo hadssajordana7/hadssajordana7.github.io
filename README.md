@@ -16,7 +16,8 @@ Programação e Arte
 
 ## Jogos
 
-1. [Astral Plane](https://raixasantos.github.io/AstralPlane/)
+1. Astral Plane
+[Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
 2. Earth Half
 
