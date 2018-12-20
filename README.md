@@ -16,9 +16,11 @@ Programação e Arte
 
 ## Jogos
 
-**Nome do Jogo** _Este jogo é..._ `Comentários´
+**Nome do Jogo** _Este jogo é..._ 
 
 ### Artes
+
+[cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
 ### Markdown
 
