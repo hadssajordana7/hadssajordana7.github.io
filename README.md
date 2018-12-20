@@ -16,6 +16,10 @@ Programação e Arte
 
 ## Jogos
 
+1. 
+
+2. Earth Half
+
 **Nome do Jogo** _Este jogo é..._ 
 
 ### Artes
@@ -26,8 +30,8 @@ Programação e Arte
 2. Transformar em imagen (url + imagem)
 ![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
-3. vídeo
-[Cubo 2x2](https://www.youtube.com/watch?v=osSf6rvrTr0)
+3. Adicionar apenas imagem (arquivo pc)
+
 
 ### Markdown
 
