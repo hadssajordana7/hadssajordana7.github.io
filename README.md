@@ -38,7 +38,7 @@ Programação e Arte
 
 5. Avançado: Adicionar imagem que também é link
               e que abre em uma nova janela
-<a href=""> ![Imagem1](passaro.jpg) </a>
+<a href="http://google.com"> ![Imagem1](passaro.jpg) </a>
 
 ### Markdown
 
