@@ -16,10 +16,10 @@ Programação e Arte
 
 ## Jogos
 
-1. Astral Plane
+1.
 [Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
-2. Earth Half
+2.
 [Earth Half](https://hadssajordana7.github.io/earthhalf/)
 
 **Nome do Jogo** _Este jogo é..._ 
