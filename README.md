@@ -16,14 +16,12 @@ Programação e Arte
 
 ## Jogos
 
-1.
-[Astral Plane](https://raixasantos.github.io/AstralPlane/)
+1.[Astral Plane](https://raixasantos.github.io/AstralPlane/)
 
-2.
-[Earth Half](https://hadssajordana7.github.io/earthhalf/)
+2.[Earth Half](https://hadssajordana7.github.io/earthhalf/)
 
 3.
-<a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank"> </a>
+<a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank"> [Cozinha Maluca] </a>
 [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/)
 
 **Nome do Jogo** _Este jogo é..._ 
