@@ -35,6 +35,7 @@ Programação e Arte
 
 3. Adicionar apenas imagem (arquivo pc)
 ![Imagem1](Eren.png)
+![Flash](flash.png)
 
 4. Adicionar imagem que também é link (arquivo + url)
 [![Imagem1](passaro.jpg)](http://google.com)
