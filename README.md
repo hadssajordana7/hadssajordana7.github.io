@@ -20,7 +20,7 @@ Programação e Arte
 
 2.[Earth Half](https://hadssajordana7.github.io/earthhalf/)
 
-3.<a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank"> [Cozinha Maluca] </a>
+3.<a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank"> Cozinha Maluca </a>
 
 
 **Nome do Jogo** _Este jogo é..._ 
