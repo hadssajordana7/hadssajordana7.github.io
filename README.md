@@ -33,7 +33,7 @@ Programação e Arte
 2. Adicionar imagem da internet(url da imagem)
 ![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
-3. Adicionar apenas imagem (arquivo pc)
+**Meus Desenhos Pessoais** (arquivo pc)
 ![Imagem1](Eren.png)
 ![Flash](flash.png)
 
