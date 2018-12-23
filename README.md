@@ -43,6 +43,3 @@ própria.
 4. Adicionar imagem que também é link (arquivo + url)
 [![Imagem1](passaro.jpg)](http://google.com)
 
-5. Avançado: Adicionar imagem que também é link
-              e que abre em uma nova janela
-<a href="http://google.com" target= "_blank"> ![Imagem1](passaro.jpg) </a>
