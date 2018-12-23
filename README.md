@@ -34,11 +34,6 @@ E-mail: hadssa.hadssajordana@outlook.com
 
 ![Flash](flash.png)
 
-1.Adicionar penas link (url)
-[cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
-
-2.Adicionar imagem da internet(url da imagem)
-![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
  _Frase_ 
 
