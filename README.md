@@ -40,7 +40,7 @@ E-mail: hadssa.hadssajordana@outlook.com
 
 ![Flash](flash.png)
 
-**Meus Desenhos no 3dMAX**
+**Meus Projetos no 3dMAX**
 
 ![Imagem2](cubo3d.png)
 
