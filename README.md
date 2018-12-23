@@ -15,8 +15,7 @@ própria.
 <a href="https://www.facebook.com/hadssa.jordana.3" target= "_blank"> ![Facebook](facebook.png) </a> 
 <a href="https://br.pinterest.com/hdssajordana/art/" target= "_blank"> ![Pinterest](pinterest.png) </a> 
 
-- Número 1
-- Número 2
+E-mail: hadssa.hadssajordana@outlook.com
 
 ## Jogos
 
