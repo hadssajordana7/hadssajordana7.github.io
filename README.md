@@ -7,7 +7,7 @@ Site para projetos de oficina de jogos.
 desenhar, pintar, ler e resolver quebra-cabeças.
 Me considero amante da arte, por isso pratico 
 Programação e Arte no curso de jogos digitais, mas
-também por conta própria.
+também pratico por conta própria.
 
 Curisidade: Eu amo escrever poesias. 
 
