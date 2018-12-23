@@ -6,8 +6,8 @@ Site para projetos de oficina de jogos.
   Meu nome é Hádssa Jordana, meus hobbes preferidos são:
 desenhar, pintar, ler e resolver quebra-cabeças.
 Me considero amante da arte, por isso pratico 
-Programação e Arte no curso de jogos e também por conta
-própria.
+Programação e Arte no curso de jogos digitais, mas
+também por conta própria.
 
 Curisidade: Eu amo escrever poesias. 
 
