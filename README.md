@@ -22,11 +22,13 @@ E-mail: hadssa.hadssajordana@outlook.com
 ## Jogos
 
 <a href="https://raixasantos.github.io/AstralPlane/" target= "_blank">Astral Plane </a>
+![Imagem1](astralplane.png)
 
 <a href="https://hadssajordana7.github.io/earthhalf" target= "_blank">Earth Half </a>
+![Imagem1](earthhalf.png)
 
 <a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank">Cozinha Maluca </a>
-
+![Imagem1](cozinhamaluca.png)
 
 ### Artes
 
