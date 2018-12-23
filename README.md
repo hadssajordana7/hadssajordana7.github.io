@@ -9,6 +9,8 @@ Me considero amante da arte, por isso pratico
 Programação e Arte no curso de jogos e também por conta
 própria.
 
+Curisidade: Eu amo escrever poesias. 
+
 # Contatos e Contas
 
 <a href="https://www.instagram.com/hadssa.cavalcanti/" target= "_blank"> ![Instagram](insta.png) </a> 
