@@ -28,7 +28,7 @@ E-mail: hadssa.hadssajordana@outlook.com
 
 ### Artes
 
-**Meus Desenhos Pessoais** (arquivo pc)
+**Meus Desenhos Pessoais** 
 ![Imagem1](Eren.png)
 ![Flash](flash.png)
 
