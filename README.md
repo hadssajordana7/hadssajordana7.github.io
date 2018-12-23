@@ -1,10 +1,11 @@
 # hadssajordana7.github.io
 Site para projetos de oficina de jogos.
 
+**Quem Sou?**
 
 Hádssa Jordana, 19 anos
 
-Programação e Arte
+Pratico Programação e Arte
 
 # Contatos
 
