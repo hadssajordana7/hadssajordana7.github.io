@@ -11,9 +11,9 @@ própria.
 
 # Contatos
 
-1.<a href="https://www.instagram.com/hadssa.cavalcanti/" target= "_blank"> ![Instagram](inta.png) </a> 
+<a href="https://www.instagram.com/hadssa.cavalcanti/" target= "_blank"> ![Instagram](inta.png) </a> 
 
-2. Facebook
+Facebook
 
 - Número 1
 - Número 2
