@@ -39,5 +39,5 @@ E-mail: hadssa.hadssajordana@outlook.com
 ![Flash](flash.png)
 
 
- _"Continue pelos seus sonhos, você pode até o fim"_ 
+Minha iniciativa: _"Continue pelos seus sonhos, você pode até o fim"_ 
 
