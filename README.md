@@ -40,7 +40,7 @@ E-mail: hadssa.hadssajordana@outlook.com
 
 **Meus Desenhos no 3dMAX**
 
-![Imagem1](cubo3d.png)
+![Imagem2](cubo3d.png)
 
 
 Minha iniciativa: _"Continue pelos seus sonhos, você pode até o fim"_ 
