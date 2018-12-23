@@ -3,6 +3,8 @@ Site para projetos de oficina de jogos.
 
 **Quem Sou?**
 
+![Imagem3](eu.png)
+
   Meu nome é Hádssa Jordana, meus hobbes preferidos são:
 desenhar, pintar, ler e resolver quebra-cabeças.
 Me considero amante da arte, por isso pratico 
