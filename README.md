@@ -26,8 +26,6 @@ E-mail: hadssa.hadssajordana@outlook.com
 3.<a href="https://hadssajordana7.github.io/cozinhamaluca/" target= "_blank">Cozinha Maluca </a>
 
 
-**Nome do Jogo** _Este jogo é..._ 
-
 ### Artes
 
 **Meus Desenhos Pessoais** (arquivo pc)
@@ -40,5 +38,5 @@ E-mail: hadssa.hadssajordana@outlook.com
 2.Adicionar imagem da internet(url da imagem)
 ![cubo](http://d26lpennugtm8s.cloudfront.net/stores/241/323/products/thunderv241-8dc7c99127561b058215132896980063-640-0.jpg)
 
-
+ _Frase_ 
 
